@@ -8,7 +8,7 @@
 - **Databases**: MySQL, SQLite  
 - **Data Structures & Algorithms**: Alogorithms 
 - **Developer Tools**: Git/GitHub, Google Colab, VS Code, Anaconda  
-- **Academic Coursework**: Data Structures, Operating Systems (Windows, Linux), Computer Networks, Object-Oriented Programming, Database Management Systems  
+- **Academic Coursework**: Artificial Intelligence ,Data Structures, Operating Systems (Windows, Linux), Computer Networks, Object-Oriented Programming, Database Management Systems  
 - **Interests**: Problem-Solving, Competitive Programming, Cyber security,
 -  **Email**: nukalanandini123@gmail.com
 - **LinkedIn**:
