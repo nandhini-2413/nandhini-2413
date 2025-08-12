@@ -1,7 +1,7 @@
 # Hi, I’m @nandini-2413 👋
 - 👀 I’m interested in Front end developer ,Python,Java,c Passionate about coding and crafting innovative solutions, I love exploring new technologies and applying my skills to real-world challenges. This space showcases my journey, skills, and aspirations as I continue to grow as a developer.
 ### About Me  
-- 🌱 I’m currently learning a third-year Computer Science & Engineering student with a specialization in (AI&ML)at RISE Krishna Sai Prakasam Group of Institutions, Ongole.
+- 🌱 I’m currently learning a Final-year Computer Science & Engineering student with a specialization in (AI&ML)at RISE Krishna Sai Prakasam Group of Institutions, Ongole.
 ### 🛠 Skills & Interests 
 - **Programming Languages**: Python, C, Java, Full Stack  
 - **Frameworks/Libraries**: NumPy, Pandas, Ai&Ml Tools 
